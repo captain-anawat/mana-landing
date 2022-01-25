@@ -1,0 +1,10 @@
+[
+  {
+    "relation": [ "delegate_permission/common.handle_all_urls" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "thes.mana.rising.client",
+      "sha256_cert_fingerprints": [ "6E:A4:D2:B9:34:5D:F3:F6:D1:DA:1F:6D:4F:9A:6B:49:FE:0D:CD:3D:03:6E:45:22:CC:45:B8:11:19:F7:EF:22" ]
+    }
+  }
+]
